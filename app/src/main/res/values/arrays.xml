@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_units_options">
+        <item>@string/pref_1km_label</item>
+        <item>@string/pref_5km_label</item>
+        <item>@string/pref_10km_label</item>
+        <item>@string/pref_20km_label</item>
+    </string-array>
+
+    <string-array name="pref_units_values">
+        <item>@string/pref_1km</item>
+        <item>@string/pref_5km</item>
+        <item>@string/pref_10km</item>
+        <item>@string/pref_20km</item>
+    </string-array>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+
+</resources>

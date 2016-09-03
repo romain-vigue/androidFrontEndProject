@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\Sunshine\identitytoolkit-api10\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cff5cfc3e0b06b195e7258b6414ad4a06da52f2">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-e83f21bf44e95ff9ec1243114ed183c97a74c1bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-ce2de0776dcf24e340d3e4d30bd021ede97f5b4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-06c75acd1d17305a79d49845e5d1fbbcd67fd8d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-2129d861f900924f820029488682c0a6fe2fab66.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-eeaf0045b3d1c427167cd35f393d1eedee19c6e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-863d53ccfea3247a322df09f13a159fccb32379f.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-6f59a4e25bb66690aa5b20afc5d948e324c7d10a.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-f6fef386a4cc388dfa273e2252ed900ba09c1ad5.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-242cb01650b938e92c37c6e3f6969e8b4b9d06ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-ad237d254edd2537bca176f32a33fef33e4d398f.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6a442b030128ece0880a2ec5c0608e47ebf614a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-c1fa09ddd7b60269968f1d8139a0fa46f3946853.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-f6276b7c47ed665cd102d3b68bcd9e2f10360e7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-ddf97b57ac80f71b7c7664d8bfda3726b5b0b3ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-c7c3298b74baec4c3be29b01ab1284425d4eae02.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-48989e93343df6a1e335b2f1f3f3b00a327b3ff2.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-83ab46b333c1c3fcb370ac191ddb784502f93c14.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-d99018526befb7b5e962bc68330d677d39ea3409.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-5d789826fa24519efc398041ed6b3dc7d515fc92.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-28b2681cf8eb93646916cd8d5b583798b927e495.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-5092ebfb91c7a6a5667835703cb8ad55ed465fa1.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-ac3937a8688488b9bfd5e1967e47a637497f045a.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\loremipsum-1.0\loremipsum-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="863f636e950b4199a4fbb448e8dc6eb6829bb1fe">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\loremipsum-1.0-ba129edc89545354812cc8feb994d803175caae9.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8c4ee5ff7c7260b08f78b24c8d4c8721fe686bfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\localuser\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-14fb82fd59ba402108a3adaa769be9187c6e3514.jar" />
+    </item>
+
+</items>
